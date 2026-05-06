@@ -1,0 +1,16 @@
+{
+  "keys": {
+    "jopa": {
+      "username": "User1",
+      "steamid": "STEAM_0:1:375190661",
+      "expiry": "2030-06-05",
+      "active": true
+    },
+    "jopa1": {
+      "username": "User2",
+      "steamid": "",
+      "expiry": "2026-06-01",
+      "active": false
+    }
+  }
+}
